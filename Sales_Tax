@@ -1,0 +1,4 @@
+def Calculate_Sales_Tax(Price,Tax_Rate):
+    # LATER
+    Return Sales_Tax
+ 
